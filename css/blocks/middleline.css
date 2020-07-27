@@ -1,6 +1,6 @@
 .middleline {
   height: 360px;
-  background: url("../../img/decor/couple.png") right 25% bottom / auto no-repeat, url("/img/bg/middleline.jpg") center center / cover no-repeat, #ffffff;
+  background: url("../../img/decor/couple.png") right 25% bottom / auto no-repeat, url("../../img/bg/middleline.jpg") center center / cover no-repeat, #ffffff;
   display: flex;
   flex-direction: column;
   justify-content: center;
