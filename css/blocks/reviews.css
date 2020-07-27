@@ -60,7 +60,7 @@
 }
 
 .review-post__link:after {
-  content: url("/img/icons/socials/vk-blue.png");
+  content: url("../../img/icons/socials/vk-blue.png");
   height: 30px;
   margin-left: 6px;
 }
