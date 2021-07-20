@@ -24,7 +24,7 @@
   right: 150px;
   width: 100%;
   height: 100%;
-  content: url("/img/decor/shades.png");
+  content: url("../../img/decor/shades.png");
 }
 
 .welcome__content--asia {
